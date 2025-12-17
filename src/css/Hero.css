@@ -1,0 +1,27 @@
+section h1{
+    font-family: 'Modern Negra Demo', sans-serif;
+}
+
+.left-leaf{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 150px;
+}
+
+#qaute{
+    font-family: 'Modern Negra Demo', sans-serif;
+}
+
+#cocktails:hover{
+    color: rgb(23, 96, 47);
+    opacity: 90;
+    font-size: 1.3rem;
+}
+
+.text-gradient {
+    background: linear-gradient(to bottom, #ffffff, #898989);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
