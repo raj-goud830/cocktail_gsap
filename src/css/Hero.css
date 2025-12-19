@@ -28,7 +28,8 @@ section h1{
 
 .noisy{
      position: absolute;
-     inset: 0; 
+     /* inset: 0;  */
+     background-color: black;
      size: full;
      background-image: url("/images/noise.png");
 }
